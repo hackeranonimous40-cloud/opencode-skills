@@ -37,7 +37,7 @@ Colección de **skills de élite** para OpenCode, diseñadas y forjadas por inte
 | `bot-manager` | 🔴 CRÍTICO | Control total del bot — start, stop, restart, status |
 | `whatsapp-bot` | 🟠 AVANZADO | Envío de mensajes, modos, captura de fotos remota |
 | `whatsapp-controller` | 🟠 AVANZADO | Dual-account control — dos cuentas, un cerebro |
-| `senior-architect` | 🟣 ÉLITE | Diseño de sistemas, microservicios, diagramas, escalabilidad |
+| `senior-architect` | 🟣 ÉLITE | Diseño de sistemas, microservicios, diagramas, escalabilidad *(crédito: comunidad OpenCode)* |
 
 ---
 
@@ -105,6 +105,19 @@ opencode --load-skills
 │           github.com/hackeranonimous40   │
 └──────────────────────────────────────────┘
 ```
+
+---
+
+---
+
+## 📜 Créditos
+
+| Skill | Autoría |
+|-------|---------|
+| `bot-manager` | Creada por IA para este proyecto |
+| `whatsapp-bot` | Creada por IA para este proyecto |
+| `whatsapp-controller` | Creada por IA para este proyecto |
+| `senior-architect` | Skill de la comunidad OpenCode — [LobeHub](https://lobehub.com/skills/openclaw-skills-senior-architect) / [Smithery](https://smithery.ai/skills/nimeshgurung/senior-architect) |
 
 ---
 
